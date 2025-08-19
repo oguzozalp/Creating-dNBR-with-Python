@@ -4,6 +4,8 @@ Bu repo, Python kullanarak **dNBR (Differenced Normalized Burn Ratio)** hesaplam
 
 ---
 
+![dNBR Zoomed Area](example.png)
+
 ## 📂 İçerik
 
 - `dNBR_testing.ipynb` - Jupyter Notebook ile tüm analiz adımları  
